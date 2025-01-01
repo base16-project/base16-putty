@@ -1,6 +1,12 @@
 tinted-putty
 ============
 
+**Deprecated**: tinted-putty and all the other Tinted Theming
+terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 [Base16] and [Base24] colors for [PuTTY]
 
 
